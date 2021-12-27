@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListEmployee", "ListEmployee\ListEmployee.csproj", "{52831D48-69C0-4DCE-9D18-626D002B71DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52831D48-69C0-4DCE-9D18-626D002B71DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52831D48-69C0-4DCE-9D18-626D002B71DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52831D48-69C0-4DCE-9D18-626D002B71DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52831D48-69C0-4DCE-9D18-626D002B71DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06015269-14FB-41BF-B21B-C10AE89F6F8C}
+	EndGlobalSection
+EndGlobal
